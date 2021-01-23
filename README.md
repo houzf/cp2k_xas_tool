@@ -74,7 +74,7 @@ isatom(1)... isatom(i)... isatom(nsatom)   #the index of selected atoms
 
 ## References
 
-Ref. 1: K. Albe, K. Nordlund, J. Nord, and A. Kuronen, *Phys. Rev. B* **66**, 035205(2002); DOI: [10.1103/PhysRevB.66.035205](https://doi.org/10.1103/physrevb.66.035205).
+Marcella Iannuzzi and Jürg Hutter, Inner-shell spectroscopy by the Gaussian and augmented plane wave method, *Phys. Chem. Chem. Phys.*, 2007,**9**, 1599-1610; DOI: [10.1039/B615522G](https://doi.org/10.1039/B615522G).
 
 If you use this tool to post-process the XAS data of CP2K, please cite our paper:
 
