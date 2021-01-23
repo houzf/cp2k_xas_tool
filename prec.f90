@@ -1,0 +1,7 @@
+      MODULE PREC
+      implicit none
+
+      INTEGER, PARAMETER :: q =SELECTED_REAL_KIND(10)
+      INTEGER, PARAMETER :: short = SELECTED_INT_KIND(6) 
+      INTEGER, PARAMETER :: long = SELECTED_INT_KIND(10) 
+      END MODULE
