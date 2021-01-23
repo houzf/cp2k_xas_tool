@@ -74,6 +74,8 @@ isatom(1)... isatom(i)... isatom(nsatom)   #the index of selected atoms
 
 ## References
 
+The principles of XAS simulations in CP2K code:
+
 Marcella Iannuzzi and Jürg Hutter, Inner-shell spectroscopy by the Gaussian and augmented plane wave method, *Phys. Chem. Chem. Phys.*, 2007,**9**, 1599-1610; DOI: [10.1039/B615522G](https://doi.org/10.1039/B615522G).
 
 If you use this tool to post-process the XAS data of CP2K, please cite our paper:
