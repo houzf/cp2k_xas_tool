@@ -80,4 +80,4 @@ Marcella Iannuzzi and Jürg Hutter, Inner-shell spectroscopy by the Gaussian and
 
 If you use this tool to post-process the XAS data of CP2K, please cite our paper:
 
-Zhufeng Hou, Xianlong Wang, Takashi Ikeda, Shen-Feng Huang, Kiyoyuki Terakura, Mauro Boero, Masaharu Oshima, Masa-aki Kakimoto, and Seizo Miyata, Effect of Hydrogen Termination on Carbon K-Edge X-ray Absorption Spectra of Nanographene, *J. Phys. Chem. C* 2011 **115** (13), 5392-5403 DOI: [10.1021/jp110879d](https://doi.org/10.1021/jp110879d).
+Zhufeng Hou, Xianlong Wang, Takashi Ikeda, Shen-Feng Huang, Kiyoyuki Terakura, Mauro Boero, Masaharu Oshima, Masa-aki Kakimoto, and Seizo Miyata, Effect of Hydrogen Termination on Carbon *K*-Edge X-ray Absorption Spectra of Nanographene, *J. Phys. Chem. C* 2011 **115** (13), 5392-5403 DOI: [10.1021/jp110879d](https://doi.org/10.1021/jp110879d).
