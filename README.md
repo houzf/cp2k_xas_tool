@@ -77,4 +77,5 @@ isatom(1)... isatom(i)... isatom(nsatom)   #the index of selected atoms
 Ref. 1: K. Albe, K. Nordlund, J. Nord, and A. Kuronen, *Phys. Rev. B* **66**, 035205(2002); DOI: [10.1103/PhysRevB.66.035205](https://doi.org/10.1103/physrevb.66.035205).
 
 If you use this tool to post-process the XAS data of CP2K, please cite our paper:
-Zhufeng Hou, Xianlong Wang, Takashi Ikeda, Shen-Feng Huang, Kiyoyuki Terakura, Mauro Boero, Masaharu Oshima, Masa-aki Kakimoto, and Seizo Miyata, The Journal of Physical Chemistry C 2011 **115** (13), 5392-5403 DOI: [10.1021/jp110879d](https://doi.org/10.1021/jp110879d); [Download Citation in Bibtex format]: (https://pubs.acs.org/action/showCitFormats?doi=10.1021%2Fjp110879d&include=cit&format=ris&direct=true&downloadFileName=jp110879d&href=/doi/10.1021/jp110879d)
+
+Zhufeng Hou, Xianlong Wang, Takashi Ikeda, Shen-Feng Huang, Kiyoyuki Terakura, Mauro Boero, Masaharu Oshima, Masa-aki Kakimoto, and Seizo Miyata, The Journal of Physical Chemistry C 2011 **115** (13), 5392-5403 DOI: [10.1021/jp110879d](https://doi.org/10.1021/jp110879d).
