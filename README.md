@@ -64,9 +64,9 @@ isatom(1)... isatom(i)... isatom(nsatom)   #the index of selected atoms
 
 **ne**: number of points in the energy axis. 
 
-**egs**: total energy of ground state (in Hartree 
+**egs**: total energy of ground state (in Hartree) 
 
-**iatom(i)**: index of excited ato
+**iatom(i)**: index of excited atom
 
 **eexcit(i)**: total energy of excited state in the DSCF (i.e., deltaSCF) calculations for the excited atom i  (in Hartree).
 
